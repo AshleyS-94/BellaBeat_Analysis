@@ -1,5 +1,18 @@
 # Marketing Analysis
 
+## Table on Contents
+
+1. [Project Overview](#project-overview)
+2. [Data Sources](#data-sources)
+3. [Tools](#tools)
+4. [Data Cleaning & Preparations](#data-cleaning-&-preparations)
+5. [Exploratory Data Analysis](#exploratory-data-analysis)
+6. [Data Analysis](#data-analysis)
+7. [Results & Findings](#results-&-findings)
+8. [Recommendations](#recommendations)
+9. [Limitations](#limitations)
+10. [References](References)
+
 ### Project Overview
 
 This project aims to optimize BellaBeat's marketing strategy by analyzing consumer behavior through smart device data. We identify trends, make data-driven recommendations, and deepen our understanding of the target audience.
@@ -13,7 +26,7 @@ FitBit Fitness Tracker Data - The primary data source for analysis using the "da
 - Excel
 - BigQuery
 
-### Data Cleaning/Preparation
+### Data Cleaning & Preparation
 
 I carried out these data preprocessing procedures to prepare the dataset for analysis:
 - Data loading and inspection
@@ -38,7 +51,7 @@ FROM `my-data-project122722.Fitbit_data_tracker.daily_activity`
 WHERE Calories > 2400;
 ```
 
-### Results/Findings
+### Results & Findings
 
 Thirty users actively participated in the study. Although over half slept seven or more hours nightly, 48% had an obese BMI. The CDC recommends 150-300 minutes of weekly moderate exercise, which our participants did not meet on average.
 
