@@ -30,7 +30,13 @@ Explore the marketing analysis to answer key questions such as:
 
 ### Data Analysis
 
+Coding/features worked with
 
+```sql
+SELECT DISTINCT Id, ActivityDate, Calories 
+FROM `my-data-project122722.Fitbit_data_tracker.daily_activity` 
+WHERE Calories > 2400;
+```
 
 ### Results/Findings
 
