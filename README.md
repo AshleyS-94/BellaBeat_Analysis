@@ -58,9 +58,13 @@ To optimize user engagement, we suggest:
 ### References
 
 FitBiT Fitness Tracker data. (2020, December 16). Kaggle. (https://www.kaggle.com/datasets/arashnic/fitbit)
+
 Move more; sit less. (2023, June 22). Centers for Disease Control and Prevention. (https://www.cdc.gov/physicalactivity/basics/adults/index.htm)
+
 Healthy weight, overweight, and obesity among U.S. adults. (n.d.). National Health and Nutrition Examination Survey. (https://www.cdc.gov/nchs/data/nhanes/databriefs/adultweight.pdf)
+
 CDC Newsroom. (2016, January 1). CDC. (https://www.cdc.gov/media/releases/2016/p0215-enough-sleep.html)
+
 Osilla, E. V. (2022, September 12). Calories. StatPearls - NCBI Bookshelf. (https://www.ncbi.nlm.nih.gov/books/NBK499909/)
 
 #
