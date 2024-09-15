@@ -6,7 +6,7 @@ This project aims to optimize BellaBeat's marketing strategy by analyzing consum
 
 ### Data Sources
 
-FitBit Fitness Tracker Data - The primary data source for analysis using the "dailyActivity_merged.csv", "heartrate_seconds_merged.csv", and "minuteSleep_merged.csv" files. 
+FitBit Fitness Tracker Data - The primary data source for analysis using the "dailyActivity_merged.csv", "heartrate_seconds_merged.csv", and "minuteSleep_merged.csv" files. [Download here](https://www.kaggle.com/datasets/arashnic/fitbit)
 
 ### Tools
 
