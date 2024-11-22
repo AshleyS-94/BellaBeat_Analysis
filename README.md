@@ -51,9 +51,14 @@ FROM `my-data-project122722.Fitbit_data_tracker.daily_activity`
 WHERE Calories > 2400;
 ```
 
+![Screenshot 2024-11-22 073920](https://github.com/user-attachments/assets/31c99757-5142-4431-83e3-d3053bf97dd5)
+
+
 ### Results & Findings
 
 Thirty users actively participated in the study. Although over half slept seven or more hours nightly, 48% had an obese BMI. The CDC recommends 150-300 minutes of weekly moderate exercise, which our participants did not meet on average.
+
+![Screenshot 2024-11-22 072626](https://github.com/user-attachments/assets/9aee61a4-4216-462c-8d6f-d413c7aa1a17)
 
 
 ### Recommendations
